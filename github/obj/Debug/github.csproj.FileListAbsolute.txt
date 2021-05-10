@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\bin\Debug\github.exe
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\bin\Debug\github.pdb
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\obj\Debug\github.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\obj\Debug\github.exe
+C:\Users\Cliente\Desktop\RegeditHWIDSPOOFER\github\obj\Debug\github.pdb
